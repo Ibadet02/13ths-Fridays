@@ -5,7 +5,7 @@
 }
 body{
   height: 100vh;
-  background-image: url("./src/styles/ominous.jpg");
+  background-image: url("./styles/ominous.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
