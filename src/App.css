@@ -1,0 +1,26 @@
+.wrapper{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper.goup{
+  animation: goup 1s forwards;
+}
+.wrapper.godown{
+  animation: godown 1s forwards;
+}
+@keyframes goup{
+  100%{
+    transform: translateY(100%);
+  }
+}
+@keyframes godown{
+  0%{
+    transform: translateY(100%);
+  }
+  100%{
+    transform: translateY(0%);
+  }
+}

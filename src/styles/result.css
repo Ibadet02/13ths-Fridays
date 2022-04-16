@@ -1,0 +1,56 @@
+.result-wrapper{
+    width: 100%;
+    height: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    overflow: hidden;
+}
+.result-wrapper.show{
+    animation: shown 1s forwards;
+}
+.result-wrapper.hide{
+    animation: hiden 1s forwards;
+}
+.result{
+    padding: 5px;
+    width: 200px;
+    height: 0px;
+    border: 1px solid black;
+    overflow-y: auto;
+}
+.result.show{
+    animation: show-result 1s forwards;
+}
+.result.hide{
+    animation: hide-result 1s forwards;
+}
+@keyframes shown{
+    100%{
+        height: 100vh;
+    }
+}
+@keyframes show-result{
+    100%{
+        height: 200px;
+    }
+}
+@keyframes hiden{
+    0%{
+        height: 100vh;
+    }
+    100%{
+        height: 0;
+    }
+}
+@keyframes hide-result{
+    0%{
+        height: 200px;
+    }
+    100%{
+        height: 0;
+    }
+}
