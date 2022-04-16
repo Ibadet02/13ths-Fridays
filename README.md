@@ -1,3 +1,6 @@
+# About
+
+when you add specific year to the inout fiels, the App is gonna find the "ominous days" (the days which coincidence 13th days Fridays). If you add two years, The search for "ominous days" will be applied between those years.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
