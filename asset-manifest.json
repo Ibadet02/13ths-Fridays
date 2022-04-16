@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/https//Ibadet02/github.io/13ths-Fridays/static/css/main.83bc928f.css",
-    "main.js": "/https//Ibadet02/github.io/13ths-Fridays/static/js/main.e67adb91.js",
-    "static/js/787.c821bc44.chunk.js": "/https//Ibadet02/github.io/13ths-Fridays/static/js/787.c821bc44.chunk.js",
-    "static/media/ominous.jpg": "/https//Ibadet02/github.io/13ths-Fridays/static/media/ominous.ec52f23503975862f60d.jpg",
-    "index.html": "/https//Ibadet02/github.io/13ths-Fridays/index.html",
-    "main.83bc928f.css.map": "/https//Ibadet02/github.io/13ths-Fridays/static/css/main.83bc928f.css.map",
-    "main.e67adb91.js.map": "/https//Ibadet02/github.io/13ths-Fridays/static/js/main.e67adb91.js.map",
-    "787.c821bc44.chunk.js.map": "/https//Ibadet02/github.io/13ths-Fridays/static/js/787.c821bc44.chunk.js.map"
+    "main.css": "https://Ibadet02/github.io/13ths-Fridays/static/css/main.83bc928f.css",
+    "main.js": "https://Ibadet02/github.io/13ths-Fridays/static/js/main.e67adb91.js",
+    "static/js/787.c821bc44.chunk.js": "https://Ibadet02/github.io/13ths-Fridays/static/js/787.c821bc44.chunk.js",
+    "static/media/ominous.jpg": "https://Ibadet02/github.io/13ths-Fridays/static/media/ominous.ec52f23503975862f60d.jpg",
+    "index.html": "https://Ibadet02/github.io/13ths-Fridays/index.html",
+    "main.83bc928f.css.map": "https://Ibadet02/github.io/13ths-Fridays/static/css/main.83bc928f.css.map",
+    "main.e67adb91.js.map": "https://Ibadet02/github.io/13ths-Fridays/static/js/main.e67adb91.js.map",
+    "787.c821bc44.chunk.js.map": "https://Ibadet02/github.io/13ths-Fridays/static/js/787.c821bc44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83bc928f.css",
